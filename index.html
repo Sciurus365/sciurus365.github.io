@@ -29,7 +29,34 @@
         </div>
     </header>
     <div id="wrapper">
-        <div id="content">            <h4 class="date">七月 20, 2018</h4>
+        <div id="content">            <h4 class="date">七月 22, 2018</h4>
+
+            <article class="post">
+                <h2 class="title">
+                    <a href="/the-cooperation-of-latex-and-word-users-latex2rtf-and-difflatex.html" rel="bookmark" title="Permanent Link to &quot;The Cooperation of LaTeX and Word Users: latex2rtf and difflatex&quot;">The Cooperation of LaTeX and Word Users: latex2rtf and difflatex</a>
+                </h2>
+
+                
+                
+
+                <p>Recently, I am cooperating with a colleague in my research group to modify a thesis. The original document is written in .Rnw file (R+LaTeX), while this colleague of mine likes to use Word. I found two software useful in this process.</p>
+<p>The first one is <a href="https://sourceforge.net/projects/latex2rtf/">latex2rtf</a>. This tool can convert LaTeX file to .rtf file. Its advantage comparing with pandoc is that the in-text citation can be converted correctly. However, it cannot handle reference lists, pictures and charts. </p>
+<p>The second one is <a href="http://www.ctan.org/tex-archive/support/latexdiff/">difflatex</a> written in <a href="http://www.perl.org/">Perl</a>. It is a package included in <a href="http://tug.org/texlive/">TeXLive</a>. You can use the following commend</p>
+<div class="highlight"><pre><span></span>difflatex old.tex new.tex &gt;diff.tex
+</pre></div>
+
+
+<p>and compile diff.tex. The output format is fairly good.</p>
+                <div class="clear"></div>
+
+                <div class="info">
+                    <a href="/the-cooperation-of-latex-and-word-users-latex2rtf-and-difflatex.html">posted at 17:00</a>
+                    &nbsp;&middot;&nbsp;<a href="/category/computer.html" rel="tag">Computer</a>
+                    &nbsp;&middot;
+                    &nbsp;<a href="/tag/latex.html" class="tags">LaTeX</a>
+                </div>
+		<a href="/the-cooperation-of-latex-and-word-users-latex2rtf-and-difflatex.html#disqus_thread">Click to read and post comments</a>
+            </article>            <h4 class="date">七月 20, 2018</h4>
 
             <article class="post">
                 <h2 class="title">
