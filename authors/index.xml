@@ -5,45 +5,12 @@
     <link>https://sciurus365.github.io/authors/</link>
       <atom:link href="https://sciurus365.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sciurus365.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://sciurus365.github.io/authors/</link>
     </image>
-    
-    <item>
-      <title>Jingmeng Cui</title>
-      <link>https://sciurus365.github.io/authors/jingmeng-cui/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://sciurus365.github.io/authors/jingmeng-cui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meng Pei</title>
-      <link>https://sciurus365.github.io/authors/meng-pei/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://sciurus365.github.io/authors/meng-pei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yanjie Su</title>
-      <link>https://sciurus365.github.io/authors/yanjie-su/</link>
-      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://sciurus365.github.io/authors/yanjie-su/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://sciurus365.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sciurus365.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Jingmeng Cui is a research master student at Radboud University.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
