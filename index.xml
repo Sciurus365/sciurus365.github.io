@@ -5,12 +5,20 @@
     <link>https://sciurus365.github.io/</link>
       <atom:link href="https://sciurus365.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jingmeng Cui</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 11:00:04 +0000</lastBuildDate>
     <image>
       <url>https://sciurus365.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jingmeng Cui</title>
       <link>https://sciurus365.github.io/</link>
     </image>
+    
+    <item>
+      <title>&#34;Multilingual&#34; Programming for Psychological Research</title>
+      <link>https://sciurus365.github.io/talk/multilingual/multilingual/</link>
+      <pubDate>Fri, 04 Sep 2020 11:00:04 +0000</pubDate>
+      <guid>https://sciurus365.github.io/talk/multilingual/multilingual/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gender-Related Friend Preferences of Youths with Different Sexual Orientations: The effects of gender role and sexual attraction</title>
