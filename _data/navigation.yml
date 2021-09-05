@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Papers & Software"
+    url: /papers_software
+  - title: "Talks"
+    url: /talks
+  - title: "Posts"
+    url: /categories
+  - title: "CV"
+    url: /assets/files/CV_public.pdf
