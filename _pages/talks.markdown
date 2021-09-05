@@ -6,7 +6,7 @@ permalink: /talks
 
 #### Conference presentations
 
-**Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Hasselman, F., Li, T. (2021) *Simlandr: Potential landscape methods for psychological formal models*. Conference on Complex Systems 2021, Lyon, Paris.
+**Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Hasselman, F., Li, T. (in preparation) *Simlandr: Potential landscape methods for psychological formal models*. Conference on Complex Systems 2021, Lyon, France.
 
 **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Hasselman, F., Li, T. (2020) *From metaphor to computation: Constructing the potential landscape for the dynamics of panic disorder.* Conference on Complex Systems 2020, online. [Slides & Files](https://osf.io/4scdg/) [Book of Abstracts](https://doi.org/10.5281/zenodo.4419178) 
 
