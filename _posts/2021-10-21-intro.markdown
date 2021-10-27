@@ -1,0 +1,8 @@
+---
+layout: single
+title:  "简述：通过早期预警信号预测心理复杂系统突变 | Brief introduction: Predicting sudden changes in psychological complex systems with early warning signals"
+date:   2021-10-21
+categories: Research
+---
+
+See the Wechat post (in Chinese) [here](https://mp.weixin.qq.com/s/B8sybw-zI_HTeBmRDLo5kA).
