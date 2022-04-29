@@ -12,7 +12,7 @@ permalink: /papers_software
 
 #### Software
 
-**Cui, J**. (2021). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.1.2) [Computer software]. [CRAN](https://CRAN.R-project.org/package=simlandr) [Website](https://sciurus365.github.io/simlandr/) [Github]([https://github.com/Sciurus365/simlandr/](https://github.com/Sciurus365/simlandr/))
+**Cui, J**. (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.2.0) [Computer software]. [CRAN](https://CRAN.R-project.org/package=simlandr) [Website](https://sciurus365.github.io/simlandr/) [Github]([https://github.com/Sciurus365/simlandr/](https://github.com/Sciurus365/simlandr/))
 
 #### Peer-reviewed papers
 
