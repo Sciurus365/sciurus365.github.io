@@ -6,6 +6,8 @@ permalink: /papers_software
 
 #### Preprints
 
+**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). Common practices in detecting psychological early warning signals may lead to incorrect results [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
+
 **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). simlandr: Simulation-Based Landscape Construction for Dynamical Systems [preprint]. [URL](https://doi.org/10.31234/osf.io/pzva3)
 
 #### Peer-reviewed papers
@@ -20,4 +22,4 @@ He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Recip
 
 **Cui, J.** (2022). SparseVFC: Sparse Vector Field Consensus for Vector Field Learning (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=SparseVFC)
 
-**Cui, J.** (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.2.0) [Computer software]. [CRAN](https://cran.r-project.org/package=simlandr)
+**Cui, J.** (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.2.1) [Computer software]. [CRAN](https://cran.r-project.org/package=simlandr)
