@@ -12,7 +12,7 @@ permalink: /papers_software
 
 #### Peer-reviewed papers
 
-**Cui, J.**, Lichtwarck-Aschoff, A., Olthof, M., Li, T., & Hasselman, F. (in press). From metaphor to computation: Constructing the potential landscape for multivariate psychological formal models. *Multivariate Behavioral Research*. [Preprint](https://doi.org/10.31234/osf.io/49xyg)
+**Cui, J.**, Lichtwarck-Aschoff, A., Olthof, M., Li, T., & Hasselman, F. (2022). From metaphor to computation: Constructing the potential landscape for multivariate psychological formal models. *Multivariate Behavioral Research*. [URL](https://doi.org/10.1080/00273171.2022.2119927)
 
 He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Reciprocity in college teaching: A big data study based on online student evaluation of 919,750 professors. *Assessment and Evaluation in Higher Education*. [URL](https://doi.org/10.1080/02602938.2022.2067980)
 
