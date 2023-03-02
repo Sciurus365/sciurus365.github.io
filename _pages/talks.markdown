@@ -6,6 +6,10 @@ permalink: /talks
 
 #### Conference presentations
 
+*Common practices in detecting psychological early warning signals may lead to incorrect results*. Part of the symposium “*Promises and Challenges in Early Warning Signal Research*”. International Convention of Psychological Science 2023, Brussels, Belgium. [Slides](https://osf.io/3vdnu/)
+
+*From metaphor to computation: Constructing the potential landscape for the dynamics of panic disorder*. International Convention of Psychological Science 2023, Brussels, Belgium. [Poster & More](https://osf.io/hybu3/)
+
 *Common practices in detecting psychological early warning signals may lead to incorrect results*. ESM Network Meeting 2022, Leuven, Belgium. [Poster](https://osf.io/8hse4/)
 
 *simlandr: Potential landscape methods for psychological formal models*. Conference on Complex Systems 2021, Lyon, France. [Slides & Files](https://osf.io/kdrqw/) [Book of Abstracts](http://sci-web.net/CCS2021/CCS2021_BookOfAbstracts.pdf)

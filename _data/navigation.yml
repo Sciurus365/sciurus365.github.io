@@ -9,3 +9,5 @@ main:
     url: /categories
   - title: "CV"
     url: /assets/files/CV_public.pdf
+  - title: "Friends"
+    url: /friends

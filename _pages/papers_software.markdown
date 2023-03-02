@@ -6,9 +6,11 @@ permalink: /papers_software
 
 #### Preprints
 
-**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). Common practices in detecting psychological early warning signals may lead to incorrect results [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
+**Cui, J.**, Hasselman, F., & Lichtwarck-Aschoff, A. (2023). *Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method* [preprint]. [URL](https://doi.org/10.31234/osf.io/wjzg2)
 
-**Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). simlandr: Simulation-Based Landscape Construction for Dynamical Systems [preprint]. [URL](https://doi.org/10.31234/osf.io/pzva3)
+**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). *Common practices in detecting psychological early warning signals may lead to incorrect results* [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
+
+**Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). *simlandr: Simulation-Based Landscape Construction for Dynamical Systems* [preprint]. [URL](https://doi.org/10.31234/osf.io/pzva3)
 
 #### Peer-reviewed papers
 
@@ -19,6 +21,8 @@ He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Recip
 **Cui, J.**, Pei, M., & Su, Y. (2022). Gender-related friend preferences of youths with different sexual orientations: The effects of gender role and sexual attraction. *Psychology & Sexuality*, 13(2), 265–282. [URL](https://doi.org/10.1080/19419899.2020.1734066) [PDF](https://www.researchgate.net/profile/Jingmeng-Cui/publication/339464230_Gender-Related_Friend_Preferences_of_Youths_with_Different_Sexual_Orientations_The_effects_of_gender_role_and_sexual_attraction/links/5f00f04492851c52d6198cd8/Gender-Related-Friend-Preferences-of-Youths-with-Different-Sexual-Orientations-The-effects-of-gender-role-and-sexual-attraction.pdf) [Wechat Post (in Chinese)](https://mp.weixin.qq.com/s/iFszOH9CGLIipVQ7Zh7V7w)
 
 #### Software
+
+**Cui, J.** (2023). fitlandr: Fit Vector Fields and Potential Landscapes from Intensive Longitudinal Data (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=fitlandr)
 
 **Cui, J.** (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.3.0) [Computer software]. [CRAN](https://cran.r-project.org/package=simlandr)
 
