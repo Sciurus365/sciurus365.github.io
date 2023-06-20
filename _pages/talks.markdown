@@ -6,6 +6,8 @@ permalink: /talks
 
 #### Conference presentations
 
+*Towards a method to recover nonlinear dynamics and multistability from intensive longitudinal data*. Part of the symposium *"Embracing the complexity of daily life: Methodological advances to capture dynamics in time-series data"*. SAA Conference 2023, Amsterdam, the Netherlands. [Slides](https://osf.io/enz5k/)
+
 *Common practices in detecting psychological early warning signals may lead to incorrect results*. Part of the symposium “*Promises and Challenges in Early Warning Signal Research*”. International Convention of Psychological Science 2023, Brussels, Belgium. [Slides](https://osf.io/3vdnu/)
 
 *From metaphor to computation: Constructing the potential landscape for the dynamics of panic disorder*. International Convention of Psychological Science 2023, Brussels, Belgium. [Poster & More](https://osf.io/hybu3/)

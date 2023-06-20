@@ -22,6 +22,8 @@ He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Recip
 
 #### Software
 
+**Cui, J.** (2023). Isinglandr: Landscape Construction and Simulation for Ising Networks (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=Isinglandr)
+
 **Cui, J.** (2023). fitlandr: Fit Vector Fields and Potential Landscapes from Intensive Longitudinal Data (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=fitlandr)
 
 **Cui, J.** (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.3.0) [Computer software]. [CRAN](https://cran.r-project.org/package=simlandr)
