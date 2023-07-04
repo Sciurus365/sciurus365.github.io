@@ -6,6 +6,8 @@ permalink: /papers_software
 
 #### Preprints
 
+**Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (2023). *Quantifying the Stability Landscapes of Psychological Networks* [preprint]. [URL](https://doi.org/10.31234/osf.io/nd8zc)
+
 **Cui, J.**, Hasselman, F., & Lichtwarck-Aschoff, A. (2023). *Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method* [preprint]. [URL](https://doi.org/10.31234/osf.io/wjzg2)
 
 **Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). *Common practices in detecting psychological early warning signals may lead to incorrect results* [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
@@ -29,3 +31,7 @@ He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Recip
 **Cui, J.** (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.3.0) [Computer software]. [CRAN](https://cran.r-project.org/package=simlandr)
 
 **Cui, J.** (2022). SparseVFC: Sparse Vector Field Consensus for Vector Field Learning (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=SparseVFC)
+
+
+
+\* Those authors contributed equally. 
