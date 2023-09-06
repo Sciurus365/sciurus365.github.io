@@ -11,7 +11,11 @@ gallery:
     image_path: "https://cv.ywang.site/images/profile.jpg"
     alt: "Yanxing Wang"
     title: "Yanxing Wang"
-    
+  - url: "https://am.yixuan-wang.site/"
+    image_path: "/assets/images/sinx.png"
+    alt: "Yixuan Wang"
+    title: "Yixuan Wang"
+
 ---
 
 ## Homepages of some of my friends
