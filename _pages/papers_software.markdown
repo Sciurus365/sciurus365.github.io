@@ -12,7 +12,7 @@ permalink: /papers_software
 
 #### Peer-reviewed papers
 
-**Cui, J.**, Hasselman, F., & Lichtwarck-Aschoff, A. (in press). Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method. *Psychological Methods*. [Preprint](https://doi.org/10.31234/osf.io/wjzg2)
+**Cui, J.**, Hasselman, F., & Lichtwarck-Aschoff, A. (2023). Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method. *Psychological Methods*. [URL](https://doi.org/10.1037/met0000623) [Preprint](https://doi.org/10.31234/osf.io/wjzg2)
 
 **Cui, J.**, Lichtwarck-Aschoff, A., Olthof, M., Li, T., & Hasselman, F. (2023). From metaphor to computation: Constructing the potential landscape for multivariate psychological formal models. *Multivariate Behavioral Research*, *58*(4), 743–761. [URL](https://doi.org/10.1080/00273171.2022.2119927)
 
