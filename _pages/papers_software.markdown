@@ -6,6 +6,8 @@ permalink: /papers_software
 
 #### Preprints
 
+**Cui, J.**, Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2024). *Specifying Transition Types and Scales of Interest in Understanding Clinical Change* [preprint]. [URL](https://doi.org/10.31234/osf.io/b68wh)
+
 **Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (2023). *Quantifying the stability landscapes of psychological networks* [preprint]. [URL](https://doi.org/10.31234/osf.io/nd8zc)
 
 **Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). *Illuminating the path: Examining the research methods of early warning signals in clinical psychology through a theoretical lens* [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
