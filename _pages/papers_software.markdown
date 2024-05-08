@@ -30,8 +30,12 @@ He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Recip
 
 **Cui, J.** (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.3.0) [Computer software]. [CRAN](https://cran.r-project.org/package=simlandr)
 
-- Vignette: **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). *simlandr: Simulation-Based Landscape Construction for Dynamical Systems* [preprint]. [URL](https://doi.org/10.31234/osf.io/pzva3)
+- Vignette: **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). *simlandr: Simulation-Based Landscape Construction for Dynamical Systems*. PsyArXiv. [URL](https://doi.org/10.31234/osf.io/pzva3)
 
 **Cui, J.** (2022). SparseVFC: Sparse Vector Field Consensus for Vector Field Learning (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=SparseVFC)
+
+#### Commentaries
+
+**Cui, J.**, Lichtwarck-Aschoff, A., & Hasselman, F. (2023). *Comments on “Climbing Escher’s stairs: A way to approximate stability landscapes in multidimensional systems”*. arXiv. [URL](https://doi.org/10.48550/arXiv.2312.09690)
 
 \* Those authors contributed equally. 
