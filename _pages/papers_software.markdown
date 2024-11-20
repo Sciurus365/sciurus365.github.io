@@ -4,13 +4,17 @@ title: Papers & Software
 permalink: /papers_software
 ---
 
-#### Preprints
+#### Preprints under review/revision
+
+**Cui, J.**, Lichtwarck-Aschoff, A., & Hasselman, F. (2024). *Examining the feasibility of nonlinear vector autoregressions for psychological intensive longitudinal data*. [preprint]. [URL](https://doi.org/10.31234/osf.io/5s8jc)
 
 **Cui, J.**, Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2024). *Specifying Transition Types and Scales of Interest in Understanding Clinical Change* [preprint]. [URL](https://doi.org/10.31234/osf.io/b68wh)
 
 **Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (2023). *Quantifying the stability landscapes of psychological networks* [preprint]. [URL](https://doi.org/10.31234/osf.io/nd8zc)
 
 **Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). *Illuminating the path: Examining the research methods of early warning signals in clinical psychology through a theoretical lens* [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
+
+**Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). *simlandr: Simulation-Based Landscape Construction for Dynamical Systems* [preprint]. [URL](https://doi.org/10.31234/osf.io/pzva3)
 
 #### Peer-reviewed papers
 
@@ -24,17 +28,11 @@ He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Recip
 
 #### Software
 
-**Cui, J.** (2023). Isinglandr: Landscape Construction and Simulation for Ising Networks (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=Isinglandr)
+[R packages](https://sciurus365.r-universe.dev/): simlandr, fitlandr, Isinglandr, *quadVAR*, SparseVFC, NVAR
 
-**Cui, J.** (2023). fitlandr: Fit Vector Fields and Potential Landscapes from Intensive Longitudinal Data (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=fitlandr)
+*Italic: Not on CRAN yet.*
 
-**Cui, J.** (2022). simlandr: Simulation-Based Landscape Construction for Dynamical Systems (0.3.0) [Computer software]. [CRAN](https://cran.r-project.org/package=simlandr)
-
-- Vignette: **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). *simlandr: Simulation-Based Landscape Construction for Dynamical Systems*. PsyArXiv. [URL](https://doi.org/10.31234/osf.io/pzva3)
-
-**Cui, J.** (2022). SparseVFC: Sparse Vector Field Consensus for Vector Field Learning (0.1.0) [Computer software]. [CRAN](https://cran.r-project.org/package=SparseVFC)
-
-#### Commentaries
+#### Others
 
 **Cui, J.**, Lichtwarck-Aschoff, A., & Hasselman, F. (2023). *Comments on “Climbing Escher’s stairs: A way to approximate stability landscapes in multidimensional systems”*. arXiv. [URL](https://doi.org/10.48550/arXiv.2312.09690)
 
