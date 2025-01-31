@@ -8,15 +8,15 @@ permalink: /papers_software
 
 **Cui, J.**, Lichtwarck-Aschoff, A., & Hasselman, F. (2024). *Examining the feasibility of nonlinear vector autoregressions for psychological intensive longitudinal data*. [preprint]. [URL](https://doi.org/10.31234/osf.io/5s8jc)
 
-**Cui, J.**, Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2024). *Specifying Transition Types and Scales of Interest in Understanding Clinical Change* [preprint]. [URL](https://doi.org/10.31234/osf.io/b68wh)
-
 **Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (2023). *Quantifying the stability landscapes of psychological networks* [preprint]. [URL](https://doi.org/10.31234/osf.io/nd8zc)
 
-**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). *Illuminating the path: Examining the research methods of early warning signals in clinical psychology through a theoretical lens* [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
+**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). *Examining the research methods of early warning signals in clinical psychology through a theoretical lens* [preprint]. [URL](https://doi.org/10.31234/osf.io/59fu4)
 
 **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). *simlandr: Simulation-Based Landscape Construction for Dynamical Systems* [preprint]. [URL](https://doi.org/10.31234/osf.io/pzva3)
 
 #### Peer-reviewed papers
+
+**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (in press). Understanding Types of Transitions in Clinical Change: An Introduction from the Complex Dynamic Systems Perspective. *Journal of Psychopathology and Clinical Science*. [Preprint](https://doi.org/10.31234/osf.io/b68wh)
 
 **Cui, J.**, Hasselman, F., & Lichtwarck-Aschoff, A. (2023). Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method. *Psychological Methods*. [URL](https://doi.org/10.1037/met0000623) [Preprint](https://doi.org/10.31234/osf.io/wjzg2)
 
