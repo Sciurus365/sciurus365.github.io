@@ -12,13 +12,13 @@ Hasselman, F., Olthof, M., **Cui, J.**, & Lichtwarck-Aschoff, A. (2024). *A Recu
 
 **Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (2023). *Quantifying the stability landscapes of psychological networks* [preprint]. [https://doi.org/10.31234/osf.io/nd8zc](https://doi.org/10.31234/osf.io/nd8zc)
 
-**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2022). *Examining the research methods of early warning signals in clinical psychology through a theoretical lens* [preprint]. [https://doi.org/10.31234/osf.io/59fu4](https://doi.org/10.31234/osf.io/59fu4)
-
 **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2021). *simlandr: Simulation-Based Landscape Construction for Dynamical Systems* [preprint]. [https://doi.org/10.31234/osf.io/pzva3](https://doi.org/10.31234/osf.io/pzva3)
 
 #### Peer-reviewed papers
 
-**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (in press). Understanding Types of Transitions in Clinical Change: An Introduction from the Complex Dynamic Systems Perspective. *Journal of Psychopathology and Clinical Science*. [Preprint](https://doi.org/10.31234/osf.io/b68wh)
+**Cui, J.**, Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2025). Examining the research methods of early warning signals in clinical psychology through a theoretical lens. *BMC Psychiatry*. [https://doi.org/10.1186/s12888-025-06688-5](https://doi.org/10.1186/s12888-025-06688-5) [Preprint](https://doi.org/10.31234/osf.io/59fu4)
+
+**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2025). Understanding Types of Transitions in Clinical Change: An Introduction from the Complex Dynamic Systems Perspective. *Journal of Psychopathology and Clinical Science*. [https://doi.org/10.1037/abn0000991](https://doi.org/10.1037/abn0000991) [Preprint](https://doi.org/10.31234/osf.io/b68wh)
 
 **Cui, J.**, Hasselman, F., & Lichtwarck-Aschoff, A. (2023). Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method. *Psychological Methods*. [https://doi.org/10.1037/met0000623](https://doi.org/10.1037/met0000623) [Preprint](https://doi.org/10.31234/osf.io/wjzg2)
 
