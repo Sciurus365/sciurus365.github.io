@@ -6,7 +6,7 @@ permalink: /papers_software
 
 #### Preprints under review/revision
 
-**Cui, J.**, Wagenmakers, D., Doorn, G. S. van, Hasselman, F., & Lichtwarck-Aschoff, A. (2025). *Analyzing formal dynamic models in psychology: A tutorial using graphical tools* [preprint]. https://doi.org/10.31234/osf.io/fhstw_v1
+**Cui, J.**, Wagenmakers, D., Doorn, G. S. van, Hasselman, F., & Lichtwarck-Aschoff, A. (2025). *Analyzing formal dynamic models in psychology: A tutorial using graphical tools* [preprint]. [https://doi.org/10.31234/osf.io/fhstw_v1](https://doi.org/10.31234/osf.io/fhstw_v1)
 
 Hasselman, F., Olthof, M., **Cui, J.**, & Lichtwarck-Aschoff, A. (2024). *A Recursive Partitioning Approach for Detecting Nonstationarity of Levels and Trends in Time Series Data* [preprint]. [https://doi.org/10.31234/osf.io/asv5f](https://doi.org/10.31234/osf.io/asv5f)
 
