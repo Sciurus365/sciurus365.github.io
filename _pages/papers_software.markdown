@@ -6,6 +6,8 @@ permalink: /papers_software
 
 #### Preprints under review/revision
 
+**Cui, J.**, Wagenmakers, D., Doorn, G. S. van, Hasselman, F., & Lichtwarck-Aschoff, A. (2025). *Analyzing formal dynamic models in psychology: A tutorial using graphical tools* [preprint]. https://doi.org/10.31234/osf.io/fhstw_v1
+
 Hasselman, F., Olthof, M., **Cui, J.**, & Lichtwarck-Aschoff, A. (2024). *A Recursive Partitioning Approach for Detecting Nonstationarity of Levels and Trends in Time Series Data* [preprint]. [https://doi.org/10.31234/osf.io/asv5f](https://doi.org/10.31234/osf.io/asv5f)
 
 **Cui, J.**, Lichtwarck-Aschoff, A., & Hasselman, F. (2024). *Examining the feasibility of nonlinear vector autoregressions for psychological intensive longitudinal data* [preprint]. [https://doi.org/10.31234/osf.io/5s8jc](https://doi.org/10.31234/osf.io/5s8jc)
@@ -16,7 +18,7 @@ Hasselman, F., Olthof, M., **Cui, J.**, & Lichtwarck-Aschoff, A. (2024). *A Recu
 
 #### Peer-reviewed papers
 
-**Cui, J.**, Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2025). Examining the research methods of early warning signals in clinical psychology through a theoretical lens. *BMC Psychiatry*. [https://doi.org/10.1186/s12888-025-06688-5](https://doi.org/10.1186/s12888-025-06688-5) [Preprint](https://doi.org/10.31234/osf.io/59fu4)
+**Cui, J.**, Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2025). Examining the research methods of early warning signals in clinical psychology through a theoretical lens. *BMC Psychiatry*, *25*, 261. [https://doi.org/10.1186/s12888-025-06688-5](https://doi.org/10.1186/s12888-025-06688-5) [Preprint](https://doi.org/10.31234/osf.io/59fu4)
 
 **Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2025). Understanding Types of Transitions in Clinical Change: An Introduction from the Complex Dynamic Systems Perspective. *Journal of Psychopathology and Clinical Science*. [https://doi.org/10.1037/abn0000991](https://doi.org/10.1037/abn0000991) [Preprint](https://doi.org/10.31234/osf.io/b68wh)
 
