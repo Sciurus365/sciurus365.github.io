@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
+remote_theme           : "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -108,28 +108,28 @@ author:
   email            : 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fa-solid fa-fw fa-envelope"
       url: "mailto:jingmeng.cui@rug.nl"
     - label: "ORCID"
-      icon: "fab fa-fw fa-orcid"
+      icon: "fa-brands fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-3421-8457"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/CUI_Jingmeng"
+    - label: "Bluesky"
+      icon: "fa-brands fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/cuijingmeng.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-fw fa-github"
       url: "https://github.com/Sciurus365/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/cuijm/"
     - label: "My name"
-      icon: "fas fa-fw fa-signature"
+      icon: "fa-solid fa-fw fa-signature"
       url: "/name"
 
 # Site Footer
