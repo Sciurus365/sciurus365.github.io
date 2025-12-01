@@ -12,9 +12,9 @@ Hasselman, F., Olthof, M., **Cui, J.**, & Lichtwarck-Aschoff, A. (2024). *A Recu
 
 **Cui, J.**, Lichtwarck-Aschoff, A., & Hasselman, F. (2024). *Examining the feasibility of nonlinear vector autoregressions for psychological intensive longitudinal data* [preprint]. [https://doi.org/10.31234/osf.io/5s8jc](https://doi.org/10.31234/osf.io/5s8jc)
 
-**Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (2023). *Quantifying the stability landscapes of psychological networks* [preprint]. [https://doi.org/10.31234/osf.io/nd8zc](https://doi.org/10.31234/osf.io/nd8zc)
-
 #### Peer-reviewed papers
+
+**Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (in press). Quantifying the stability landscapes of psychological networks. *Behavior Research Methods*. Preprint available at: [https://doi.org/10.31234/osf.io/nd8zc](https://doi.org/10.31234/osf.io/nd8zc)
 
 **Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (in press). simlandr: Simulation-based landscape construction for dynamical systems. *The R Journal*. Preprint available at: [https://doi.org/10.31234/osf.io/pzva3](https://doi.org/10.31234/osf.io/pzva3)
 
@@ -37,6 +37,8 @@ He, J., Zheng, X., Liu, M., Du, Y., Liu, G., **Cui, J.**, & Su, Y. (2022). Recip
 (All of them are also on CRAN.)
 
 #### Others
+
+**Cui, J.** (2025). Advancing the analytical tools for understanding complexity in behavioral science (Doctoral dissertation). University of Groningen. [https://doi.org/10.33612/diss.1422145646](https://doi.org/10.33612/diss.1422145646)
 
 **Cui, J.**, Lichtwarck-Aschoff, A., & Hasselman, F. (2023). *Comments on “Climbing Escher’s stairs: A way to approximate stability landscapes in multidimensional systems”*. arXiv. [https://doi.org/10.48550/arXiv.2312.09690](https://doi.org/10.48550/arXiv.2312.09690)
 
