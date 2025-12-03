@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Jingmeng Cui"
 title_separator          : "-"
-subtitle                 : "PhD student, University of Groningen" # site tagline that appears below site title in masthead
+subtitle                 : "Postdoc, KU Leuven" # site tagline that appears below site title in masthead
 name                     : "Jingmeng Cui"
 description              : "Jingmeng's personal page."
 url                      : # "https://sciurus365.github.io/"
@@ -104,12 +104,12 @@ author:
   name             : "Jingmeng Cui"
   avatar           : "/assets/images/photo_Jingmeng.jpg"
   bio              : " "
-  location         : "Groningen, NL"
+  location         : "Leuven, BE"
   email            : 
   links:
     - label: "Email"
       icon: "fa-solid fa-fw fa-envelope"
-      url: "mailto:jingmeng.cui@rug.nl"
+      url: "mailto:jingmeng.cui@kuleuven.be"
     - label: "ORCID"
       icon: "fa-brands fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-3421-8457"
