@@ -14,13 +14,13 @@ Hasselman, F., Olthof, M., **Cui, J.**, & Lichtwarck-Aschoff, A. (2024). *A Recu
 
 #### Peer-reviewed papers
 
-**Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (in press). Quantifying the stability landscapes of psychological networks. *Behavior Research Methods*. Preprint available at: [https://doi.org/10.31234/osf.io/nd8zc](https://doi.org/10.31234/osf.io/nd8zc)
+**Cui, J.\***, Lunansky, G.\*, Lichtwarck-Aschoff, A., Mendoza, N., & Hasselman, F. (2026). Quantifying the stability landscapes of psychological networks. Behavior Research Methods, *58*, 68. [https://doi.org/10.3758/s13428-025-02917-7](https://doi.org/10.3758/s13428-025-02917-7)
 
-**Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (in press). simlandr: Simulation-based landscape construction for dynamical systems. *The R Journal*. Preprint available at: [https://doi.org/10.31234/osf.io/pzva3](https://doi.org/10.31234/osf.io/pzva3)
+**Cui, J.**, Olthof, M., Lichtwarck-Aschoff, A., Li, T., & Hasselman, F. (2026). simlandr: Simulation-based landscape construction for dynamical systems. The R Journal, *17*(4), 173–191. [https://doi.org/10.32614/RJ-2025-039](https://doi.org/10.32614/RJ-2025-039)
 
 **Cui, J.**, Olthof, M., Hasselman, F., & Lichtwarck-Aschoff, A. (2025). Examining the research methods of early warning signals in clinical psychology through a theoretical lens. *BMC Psychiatry*, *25*, 261. [https://doi.org/10.1186/s12888-025-06688-5](https://doi.org/10.1186/s12888-025-06688-5) [Preprint](https://doi.org/10.31234/osf.io/59fu4)
 
-**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2025). Understanding types of transitions in clinical change: An introduction from the complex dynamic systems perspective. *Journal of Psychopathology and Clinical Science*. [https://doi.org/10.1037/abn0000991](https://doi.org/10.1037/abn0000991) [Preprint](https://doi.org/10.31234/osf.io/b68wh)
+**Cui, J.**, Hasselman, F., Olthof, M., & Lichtwarck-Aschoff, A. (2025). Understanding types of transitions in clinical change: An introduction from the complex dynamic systems perspective. *Journal of Psychopathology and Clinical Science*, *134*(4), 469-482. [https://doi.org/10.1037/abn0000991](https://doi.org/10.1037/abn0000991) [Preprint](https://doi.org/10.31234/osf.io/b68wh)
 
 **Cui, J.**, Hasselman, F., & Lichtwarck-Aschoff, A. (2023). Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method. *Psychological Methods*. [https://doi.org/10.1037/met0000623](https://doi.org/10.1037/met0000623) [Preprint](https://doi.org/10.31234/osf.io/wjzg2)
 
