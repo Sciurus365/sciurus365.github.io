@@ -1,9 +1,43 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"OSF Preprint":
+  url: https://osf.io/preprints/
+  color: "#4c8bf5"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"BRM":
+  url: https://link.springer.com/journal/13428
+  color: "#275dad"
 
-"Vision":
-  color: "#009f36"
+"R Journal":
+  url: https://journal.r-project.org/
+  color: "#276dc3"
+
+"BMC Psych":
+  url: https://bmcpsychiatry.biomedcentral.com/
+  color: "#0b8b7a"
+
+"JPCS":
+  url: https://psycnet.apa.org/journal/abn
+  color: "#7a2f8f"
+
+"Psych Methods":
+  url: https://psycnet.apa.org/journal/met
+  color: "#7a2f8f"
+
+"MBR":
+  url: https://www.tandfonline.com/journals/hmbr20
+  color: "#8c4a11"
+
+"AEHE":
+  url: https://www.tandfonline.com/journals/caeh20
+  color: "#8c4a11"
+
+"P&S":
+  url: https://www.tandfonline.com/journals/rpas20
+  color: "#8c4a11"
+
+"PhD Thesis":
+  url: https://www.rug.nl/
+  color: "#3f3f46"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

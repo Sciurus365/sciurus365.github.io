@@ -37,3 +37,11 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* Keep publication thumbnails compact like al-folio demo cards */
+.publications .abbr .preview {
+  width: 76px;
+  height: 76px;
+  object-fit: cover;
+  object-position: center;
+}
