@@ -1,0 +1,100 @@
+cv:
+  name: Jingmeng Cui
+  label: Postdoctoral Research Associate, KU Leuven
+  email: jingmeng.cui@kuleuven.be
+  location: Leuven, Belgium
+  summary: Researcher in quantitative psychology and complex systems, with a focus on intensive longitudinal data, nonlinear dynamics, and methodological innovation in behavioral science.
+
+  social_networks:
+    - network: ORCID
+      username: 0000-0003-3421-8457
+    - network: LinkedIn
+      username: cuijm
+    - network: GitHub
+      username: Sciurus365
+
+  sections:
+    Education:
+      - institution: University of Groningen
+        location: Groningen, the Netherlands
+        studyType: PhD, cum laude
+        area: Advancing the analytical tools for understanding complexity in behavioral science
+        start_date: 2021-09
+        end_date: 2025-11
+        highlights:
+          - Nieuwenhuis Institute for Educational Research, Faculty of Behavioural and Social Sciences.
+          - "Supervisors: Prof. Anna Lichtwarck-Aschoff and Dr. Fred Hasselman."
+          - "Funding: PhD Scholarship Programme, University of Groningen."
+
+      - institution: Radboud University Nijmegen
+        location: Nijmegen, the Netherlands
+        studyType: MSc (Research), Behavioural Science
+        start_date: 2019-09
+        end_date: 2021-07
+        highlights:
+          - Graduated cum laude.
+
+      - institution: Peking University
+        location: Beijing, China
+        studyType: BSc, Psychology
+        start_date: 2016-09
+        end_date: 2019-07
+
+      - institution: Peking University
+        location: Beijing, China
+        studyType: BSc, Material Chemistry
+        start_date: 2015-09
+        end_date: 2019-07
+
+    Experience:
+      - company: KU Leuven
+        position: Postdoctoral Research Associate
+        location: Leuven, Belgium
+        start_date: 2025
+        end_date: 2026
+        url: https://www.kuleuven.be/wieiswie/en/person/00184683
+        summary: A nonparametric nonlinear analysis method for psychological dynamic phenomena.
+        highlights:
+          - Research Group of Quantitative Psychology and Individual Differences.
+          - "Supervisors: Prof. Francis Tuerlinckx and Prof. Eva Ceulemans."
+          - "Funding: Postdoctoral mandates KU Leuven 2025 (PDMT2/25/036)."
+
+      - company: University of Groningen
+        position: PhD Researcher
+        location: Groningen, the Netherlands
+        start_date: 2021-09
+        end_date: 2025-11
+        highlights:
+          - Developed methods to recover nonlinear dynamics and multistability from intensive longitudinal data.
+          - Contributed to reproducible computational workflows in behavioral science.
+
+    Academic Service:
+      - bullet: Ad hoc reviewer for Psychological Review, Multivariate Behavioral Research, Journal of Mathematical Psychology, and Schizophrenia Bulletin.
+
+    Honors and Awards:
+      - title: Chinese Government Award for Outstanding Self-Financed Students Abroad
+        awarder: China Scholarship Council
+        date: 2024
+      - title: Second Prize Winner, Best Thesis Award
+        awarder: Behavioural Science Institute, Radboud University
+        date: 2022
+      - title: Excellent Graduate
+        awarder: Beijing Municipal Commission of Education
+        date: 2019
+      - title: Excellent Graduate
+        awarder: Peking University
+        date: 2019
+      - title: Excellent Program Prize, Undergraduate Research Training Program
+        awarder: Peking University
+        date: 2019
+      - title: Tang Lixin Scholarship
+        awarder: Peking University
+        date: 2016-2019
+
+    Languages:
+      - name: Chinese
+        summary: Native
+      - name: English
+        summary: Professional working proficiency
+      - name: Dutch
+        summary: Beginner (CEFR A2)
