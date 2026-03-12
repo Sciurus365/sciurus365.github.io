@@ -2,12 +2,12 @@
 layout: page
 permalink: /friends/
 title: friends
-description: friends and colleagues
+description: friends
 nav: true
 nav_order: 6
 ---
 
-Here are some friends' and colleagues' homepages.
+Here are some friends' homepages.
 
 <ul class="list-unstyled mt-3">
   <li class="mb-2">
