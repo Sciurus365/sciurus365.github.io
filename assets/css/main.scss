@@ -39,6 +39,18 @@
 @use "font-awesome/regular";
 
 /* Keep publication thumbnails compact like al-folio demo cards */
+.publications .abbr {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.publications .abbr .badge {
+  width: auto !important;
+}
+
 .publications .abbr .preview {
   width: 76px;
   height: 76px;
