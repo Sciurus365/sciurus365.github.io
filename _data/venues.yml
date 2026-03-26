@@ -6,6 +6,10 @@
   url: https://link.springer.com/journal/13428
   color: "#275dad"
 
+"JMP":
+  url: https://www.sciencedirect.com/journal/journal-of-mathematical-psychology
+  color: "#1f6f8b"
+
 "R Journal":
   url: https://journal.r-project.org/
   color: "#276dc3"
