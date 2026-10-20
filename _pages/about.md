@@ -8,8 +8,6 @@ profile:
   align: right
   image: photo_Jingmeng.jpg
   image_circular: false
-  more_info: >
-    <p>Leuven, Belgium</p>
 
 selected_papers: false
 social: true

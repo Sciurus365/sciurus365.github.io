@@ -2,13 +2,15 @@
 layout: page
 permalink: /talks/
 title: talks
-description: conference presentations and invited talks.
 nav: true
 nav_order: 4
 ---
 
-### Conference presentations
+### Conference presentations and invited talks
 
+- *复杂动态系统分析工具在心理学中的应用* (*The Application of Analytical Tools for Complex Dynamic Systems in Psychology*, in Chinese) [invited talk]. Faculty of Psychology, Beijing Normal University, 2026, Beijing, China. [Slides](/assets/talks/2026/bnu-complex-dynamic-systems-psychology-slides.pdf)
+- *Nonparametric inference of stability landscapes from intensive longitudinal data* [symposium presentation]. International Meeting of the Psychometric Society 2026, Seoul, South Korea. Part of the symposium “Dynamical Systems Modeling.” [Slides](https://osf.io/54mx9/)
+- *Examining the feasibility of nonlinear vector autoregressions for psychological intensive longitudinal data* [symposium presentation]. SAA Conference 2025, Leuven, Belgium. Part of the symposium “New Developments in Modeling Within-Person Dynamics.” [Slides](https://osf.io/cwjyq/)
 - *Unlocking nonlinear dynamics and multistability from intensive longitudinal data: A novel method* [poster pitch]. NPCS Annual Conference 2024, Utrecht, the Netherlands.
 - *Towards a method to recover nonlinear dynamics and multistability from intensive longitudinal data*. Symposium oral presentation, SAA Conference 2023, Amsterdam, the Netherlands. [Slides](https://osf.io/enz5k/)
 - *Common practices in detecting psychological early warning signals may lead to incorrect results*. Symposium oral presentation, International Convention of Psychological Science 2023, Brussels, Belgium. [Slides](https://osf.io/3vdnu/)
