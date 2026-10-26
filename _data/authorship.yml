@@ -1,0 +1,6 @@
+equal_first:
+  symbol: "*"
+  description: Equal first authorship
+supervisory:
+  symbol: "§"
+  description: Supervisory authorship (sole or shared)
