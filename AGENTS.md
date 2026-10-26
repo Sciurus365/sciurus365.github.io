@@ -72,6 +72,10 @@ When modifying `_config.yml`, these **must be updated together**:
 | Liquid templates (`_includes/`, `_layouts/`)  | [liquid-templates.instructions.md](.github/instructions/liquid-templates.instructions.md)       |
 | JavaScript (`_scripts/`)                      | [javascript-scripts.instructions.md](.github/instructions/javascript-scripts.instructions.md)   |
 
+## Academic CV
+
+For academic CV work, first read [`_cv/PROJECT_NOTES.md`](_cv/PROJECT_NOTES.md) for the user's content, design, and website synchronization preferences. Build instructions are in [`_cv/README.md`](_cv/README.md).
+
 ## Common Issues
 
 For troubleshooting, see:
