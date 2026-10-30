@@ -74,7 +74,7 @@ When modifying `_config.yml`, these **must be updated together**:
 
 ## Academic CV
 
-For academic CV work, first read [`_cv/PROJECT_NOTES.md`](_cv/PROJECT_NOTES.md) for the user's content, design, and website synchronization preferences. Build instructions are in [`_cv/README.md`](_cv/README.md).
+The private academic CV generator and project preferences live in the sibling CV workspace at `../CV/LaTeX/private-source/`. For CV work, first read its `PROJECT_NOTES.md` and `README.md`. This website repository contains the shared public data and the downloadable PDF at `assets/pdf/CV_public.pdf`.
 
 ## Common Issues
 
